@@ -121,7 +121,7 @@
                             </div>
                         </div>
                         <button onclick="finishBooking()" class="w-full gold-gradient text-slate-950 py-5 rounded-2xl font-black text-xs uppercase tracking-[0.2em] shadow-xl hover:brightness-110 active:scale-95 transition-all mt-4">
-                            Confirmar Reserva VIP
+                            Confirmar Reserva
                         </button>
                     </div>
                 </div>
