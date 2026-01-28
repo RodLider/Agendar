@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -159,7 +159,7 @@
         <!-- Footer -->
         <footer class="mt-24 pt-10 border-t border-slate-900/50">
             <div class="flex flex-col items-center opacity-40">
-                <p class="text-[10px] font-black uppercase tracking-[0.3em] mb-2 gold-text">JURUCEY SOUSA BUSINESS CENTER</p>
+                <p class="text-[10px] font-black uppercase tracking-[0.3em] mb-2 gold-text">GRUPO RODLIDER CONSULTORIA FINANCEIRA</p>
                 <div class="flex items-center text-[8px] font-bold text-slate-500 uppercase tracking-widest">
                     <i data-lucide="map-pin" class="w-2.5 h-2.5 mr-2 text-amber-600"></i> Santa Inês - Maranhão
                 </div>
